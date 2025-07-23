@@ -27,4 +27,4 @@ I'm a Full-Stack Developer with experience in building scalable SaaS platforms a
 
 <!-- GitHub Stats Section (Optional) -->
 
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sAayush&show_icons=true&theme=default&hide_title=true)
+<!-- ![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sAayush&show_icons=true&theme=default&hide_title=true) -->
