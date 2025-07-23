@@ -22,7 +22,7 @@ I'm a Full-Stack Developer with experience in building scalable SaaS platforms a
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/soni-aayush/)
-- [Resume](https://your-resume-link.com) <!-- replace or remove -->
+- [Resume](https://github.com/sAayush/sAayush/blob/main/Aayush%20Soni%20-%20Resume.pdf) <!-- replace or remove -->
 - 📧 Email: aayushsoni4116@gmail.com <!-- replace -->
 
 <!-- GitHub Stats Section (Optional) -->
