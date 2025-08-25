@@ -89,7 +89,8 @@ I'm a **Strategic Full-Stack Developer** with experience building **scalable Saa
 
 ### 📊 GitHub Stats (for fun!)  
 
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sAayush&show_icons=true&theme=tokyonight)  
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sAayush&show_icons=true&theme=tokyonight)
+(I have other github accounts for work dont blame me if its low ;-;)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sAayush&layout=compact&theme=tokyonight)  
 
 ---
