@@ -93,10 +93,16 @@ Certifications:
 
 ---
 
-### GitHub Stats (for fun!)  
+### GitHub Stats 
 
 This account -
 
 ![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sAayush&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sAayush&layout=compact&theme=tokyonight)  
+
+Other account -
+
+![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayushffc&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushffc&layout=compact&theme=tokyonight)  
